@@ -1,3 +1,3 @@
 # dsh-test
 
-Test repository for trying the dsh-superagent GitHub workflow.
+Test repository for testing the dsh-superagent GitHub workflow.
